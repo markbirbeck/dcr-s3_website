@@ -1,0 +1,6 @@
+version: "2"
+services:
+  s3_website:
+    image: shadyoak/s3_website
+    volumes:
+    - ${PWD}:/app
