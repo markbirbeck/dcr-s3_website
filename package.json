@@ -1,6 +1,6 @@
 {
   "name": "dcr-s3_website",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Docker Compose 'run' module for s3_website.",
   "keywords": [
     "docker",
